@@ -44,7 +44,7 @@ These findings align well with competitive strategies, highlighting the value of
 
 ## 📁 Files Included
 
-- `lol_ranked_games.csv`: Preprocessed match dataset  
+- `lol_ranked_games.csv`: Preprocessed match dataset compressed 
 - `CasKaggle.ipynb`: Jupyter notebook with full analysis  
 - `output.png`: Heatmap showing feature correlation with victory  
 
